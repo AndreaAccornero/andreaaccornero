@@ -1,4 +1,5 @@
 ### Hi there 👋
+I’m a graduate student in Computer Science with a strong passion for data science, visualization analytics, and sports analytics. I’m excited about leveraging data to uncover insights and drive decision-making, especially in the dynamic field of sports. Looking forward to connecting and exploring opportunities in these areas!
 [Linkedin](https://www.linkedin.com/in/accornero-andrea/)
 
 🎓 Education
