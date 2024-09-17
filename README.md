@@ -4,6 +4,7 @@
 🎓 Education
 * MSc Computer Science - University of Bologna
 * BSc Computer Science for Management - University of Bologna
+  * Thesis : 
 
 
 👨‍💻 Experience
