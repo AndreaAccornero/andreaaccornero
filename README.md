@@ -3,6 +3,7 @@
 
 🎓 Education
 * MSc Computer Science - University of Bologna
+  * Thesis at Fondazione Bruno Kessler (on progress)
 * BSc Computer Science for Management - University of Bologna
   * Thesis : [Analysis of Chest X-rays for Pneumonia Detection with Neural Networks](https://github.com/AndreaAccornero/RNN_Covid19XRay)
 
