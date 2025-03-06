@@ -11,7 +11,7 @@ I’m a graduate student in Computer Science with a strong passion for data scie
 
 
 👨‍💻 Experience
-* Data Science Trainee at Fondazione Bruno Kessler (Apr 2024 -  Present)
+* Data Science Trainee at Fondazione Bruno Kessler (Apr 2024 -  Feb 2025)
 * SW Engineer/Developer at RoleEver (Feb 2021 - Jun 2021)
 
 💻 Projects - Computer Science
