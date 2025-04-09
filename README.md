@@ -5,7 +5,8 @@ I’m a graduate student in Computer Science with a strong passion for data scie
 
 🎓 Education
 * MSc Computer Science - University of Bologna
-  * Thesis at Fondazione Bruno Kessler (on progress)
+  * Thesis at Fondazione Bruno Kessler : Volleyball data analysis: from scouting files to
+Markov chain
 * BSc Computer Science for Management - University of Bologna
   * Thesis : [Analysis of Chest X-rays for Pneumonia Detection with Neural Networks](https://github.com/AndreaAccornero/RNN_Covid19XRay)
 
