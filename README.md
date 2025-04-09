@@ -5,6 +5,7 @@ I’m a graduate student with a Master’s degree in Computer Science, with a st
 
 🎓 Education
 * MSc Computer Science - University of Bologna
+  * Grade : 110L  
   * Thesis at Fondazione Bruno Kessler : [Volleyball data analysis: from scouting files to
 Markov chain](https://github.com/dclfbk/volleydatascience) 
 * BSc Computer Science for Management - University of Bologna
